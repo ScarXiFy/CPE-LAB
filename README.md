@@ -9,4 +9,4 @@ Lauron, John Enrico D.
 BS CpE - 1
 
 
-C Programming
+CPE 1102L - PROGRAMMING LOGIC AND DESIGN
